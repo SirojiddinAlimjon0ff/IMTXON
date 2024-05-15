@@ -1,0 +1,18 @@
+.AAA{
+    border: 2px solid;
+    border-color: red;
+    border-radius: 50px 50px;
+    background-color: rgb(126, 197, 255);
+}
+.BBB{
+    background-color: yellow;
+    text-align: center;
+}
+.DDD{
+    background-color: yellow;
+    text-align: center;
+}
+.FFF{
+    width: 1300px;
+    text-align: center;
+}
